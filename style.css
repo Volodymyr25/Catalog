@@ -1,0 +1,10 @@
+body{
+	font-family: serif;
+	weight: 10px;
+	height: 100px;
+}
+p{
+	text-align: center;
+	font-family: serif;
+	border-color: black;
+}
